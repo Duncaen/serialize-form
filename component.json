@@ -1,0 +1,17 @@
+{
+    "name": "serialize-form",
+    "repo": "duncaen/serialize-form-component",
+    "description": "Serializes form values to object",
+    "version": "0.0.1",
+    "keywords": ["form", "input", "field", "serialize"],
+    "dependencies": {
+        "component/query": "*",
+        "component/value": "*"
+    },
+    "development": {},
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": [
+        "index.js"
+    ]
+}
