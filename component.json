@@ -1,6 +1,6 @@
 {
     "name": "serialize-form",
-    "repo": "duncaen/serialize-form-component",
+    "repo": "duncaen/serialize-form",
     "description": "Serializes form values to object",
     "version": "0.0.1",
     "keywords": ["form", "input", "field", "serialize"],
